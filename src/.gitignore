@@ -1,0 +1,16 @@
+
+# Environment
+.env
+
+# ignore Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite DB
+instance/
+users.db
+
